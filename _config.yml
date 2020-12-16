@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Brent Ford"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brent Ford"
 description              : "An amazing website."
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Brent Ford"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "" # "I am an **amazing** person."
+  avatar           : "/assets/images/profilepic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "B.S. in Electrical Engineering and Physics | 3.68 GPA | I hope to enter a graduate program in the fall of 2021 to follow my interests in plasma physics." # "I am an **amazing** person."
   location         : "Knoxville, TN"
   email            : "Bford26@vols.utk.edu"
   links:
@@ -103,42 +103,41 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:bford26@vols.utk.edu"
     
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bford26.github.io/"
-    
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/brent-ford-b0a721166/"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bford26"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
+
+    - label: "ORCID"
+      icon: ""
+      url: "https://orcid.org/0000-0001-8504-1474"
+
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://bford26.github.io/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+   
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/brent-ford-b0a721166/"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/bford26"
+    
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: ""
 
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
 
 # Reading Files
 include:
