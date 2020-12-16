@@ -111,10 +111,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bford26"
 
-    - label: "ORCID"
-      icon: "ai ai-orcid ai-fw"
-      url: "https://orcid.org/0000-0001-8504-1474"
-
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://bford26.github.io/"
