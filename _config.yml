@@ -112,7 +112,7 @@ author:
       url: "https://github.com/bford26"
 
     - label: "ORCID"
-      icon: ""
+      icon: "ai ai-orcid ai-fw"
       url: "https://orcid.org/0000-0001-8504-1474"
 
     # - label: "Website"
