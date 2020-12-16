@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Brent Ford"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brent Ford"
 description              : "An amazing website."
@@ -99,13 +99,13 @@ author:
   location         : "Knoxville, TN"
   email            : "Bford26@vols.utk.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bford26@vols.utk.edu"
-    
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/brent-ford-b0a721166/"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bford26@vols.utk.edu"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
