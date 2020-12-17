@@ -23,13 +23,13 @@ feature_row:
     alt: "placeholder image 1"
     title: "Programming"
     
-    excerpt: 
-    " * PyOrbit Contributions
-      * *Gauntlet* OOP Codesample 
-      *  PIC Code 
-      *  QuadTree Implementation
-      *  A* Maze Solver
-    "
+    excerpt: ""
+    # " * PyOrbit Contributions
+    #   * *Gauntlet* OOP Codesample 
+    #   *  PIC Code 
+    #   *  QuadTree Implementation
+    #   *  A* Maze Solver
+    # "
 
     url: "#test-link"
     btn_label: "Read More"
