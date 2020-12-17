@@ -13,14 +13,17 @@ toc: false
 
  Here you can learn about my interests, goals, and background in physics and electrical engineering. Navigate to the projects page to see fun side projects I have done in my free time, or look at the recent posts to see what I have been doing lately.
 
-<!-- # Research Summary
+## Research Summary
+
 During my first summer at UTK, in 2018, I had my first internship through the DOE program, SULI at Oak Ridge National Laboratory (ORNL). At ORNL, I worked in the Energy and Transportation Science Division. My internship was based around a(n) mechanical/industrial engineering perspective. My main project there was based on research for Electro-technologies that could replace fuel-fired process heating. However, I was also working with my group on two other projects involving smart manufacturing and industrial remanufacturing.
 
-In summer 2019, I worked again through the SULI program, but I was working for Jeffrey Holmes in the Accelerator Physics Division at ORNL at the Spallation Neutron Source. My project for this summer was focused on a codebase framework called PyOrbit. PyOrbit is a simulation framework used to study particle accelerators with a node based structure. I made three major contributions for the framework: a model node for 'uniform focusing' and two beam envelope solvers for different situations. 
-# Academic Summary
+In summer 2019, I worked again through the SULI program, but I was working for Jeffrey Holmes in the Accelerator Physics Division at ORNL at the Spallation Neutron Source. My project for this summer was focused on a codebase framework called PyOrbit. PyOrbit is a simulation framework used to study particle accelerators with a node based structure. I made three major contributions for the framework: a model node for 'uniform focusing' and two beam envelope solvers for different situations.
+
+## Academic Summary
+
 Starting college at Walter's State, I found myself in a situation where it would take 5 years to graduate from an undergraduate institution. I was always planning on majoring in electrical engineering, but because of how credits transfer, it was going to be difficult. Seeing it was going take me 5 years regardless of what I did, I decided to take extra courses each semester to be able to double major, adding physics as a suitable option for my career, or at the very least a way to enhance my career as an electrical engineer.
 
-As a result of being a double major, I have had to be taking 20+ credits consistently while in school. It was extremely stressful at certain points in my academic career, but I believe my experience made me a stronger and better person, who is more equipped with dealing with deadlines, hard choices, and objectives that require serious time management.  -->
+As a result of being a double major, I have had to be taking 20+ credits consistently while in school. It was extremely stressful at certain points in my academic career, but I believe my experience made me a stronger and better person, who is more equipped with dealing with deadlines, hard choices, and objectives that require serious time management. 
 
 <!-- Old about page -->
 <!-- Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
