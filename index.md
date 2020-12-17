@@ -1,11 +1,16 @@
 ---
 layout: single
 permalink: /
-title: ""Welcome to my personal website!""
+title: "Welcome to my personal website!"
 
 tagline: "Here you can learn about my background, goals, and interesting side projects."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn more"
+      url: /projects/
+
 
 author_profile: true
 toc: false
