@@ -1,12 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /
 title: "About Me"
 
 
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
-  
+
 author_profile: true
 toc: false
 ---
