@@ -1,17 +1,15 @@
 ---
 layout: single
 permalink: /
-title: "About Me"
+title: ""Welcome to my personal website!""
 
-tagline: "Welcome to my personal website!"
+tagline: "Here you can learn about my background, goals, and interesting side projects."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 
 author_profile: true
 toc: false
 ---
-
- Here you can learn about my interests, goals, and background in physics and electrical engineering. Navigate to the projects page to see fun side projects I have done in my free time, or look at the recent posts to see what I have been doing lately.
 
 ## Research Summary
 
