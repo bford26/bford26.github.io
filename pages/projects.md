@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: "/projects/"
 title: Projects
 layout: splash
 date: 2016-03-23T11:48:41-04:00
@@ -83,8 +83,8 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-<!-- 
-{% include feature_row id="intro" type="center" %} -->
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 

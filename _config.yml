@@ -135,6 +135,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - pages
 
 exclude:
   - "*.sublime-project"
@@ -197,6 +198,7 @@ sass:
 
 
 # Outputting
+relative_permalinks: false
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
@@ -273,22 +275,22 @@ defaults:
       share: true
       related: true
 
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-        layout: single
-        author_profile: true
+  # # _pages
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #       layout: single
+  #       author_profile: true
 
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
 
 collections:
   portfolio:
