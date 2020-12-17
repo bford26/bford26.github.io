@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Brent Ford"
-  avatar           : "/assets/images/profilepic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profilepic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "B.S. in Electrical Engineering and Physics | 3.68 GPA | I hope to enter a graduate program in the fall of 2021 to follow my interests in plasma physics." # "I am an **amazing** person."
   location         : "Knoxville, TN"
   email            : "Bford26@vols.utk.edu"
