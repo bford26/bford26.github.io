@@ -2,7 +2,8 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
-# date: 2016-03-23T11:48:41-04:00
+date: 2016-03-23T11:48:41-04:00
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,8 +15,8 @@ header:
 
 excerpt: "Choose from the various project types, or see the more iconic displayed further down the page."
 
-# intro: 
-#   - excerpt: ''
+intro: 
+  - excerpt: ''
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
