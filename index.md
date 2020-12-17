@@ -2,11 +2,12 @@
 layout: splash
 permalink: /
 title: "About Me"
-author_profile: true
+
 
 header:
-  image: /assets/images/my-awesome-post-teaser.jpg
-
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  
+author_profile: true
 toc: false
 ---
 
