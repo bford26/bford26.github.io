@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Programming"
     
-    excerpt
+    excerpt:
     " * PyOrbit Contributions
       * *Gauntlet* OOP Codesample 
       *  PIC Code 
