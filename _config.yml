@@ -198,7 +198,7 @@ sass:
 
 
 # Outputting
-relative_permalinks: false
+# relative_permalinks: false
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/

@@ -1,7 +1,24 @@
 ---
-permalink: "/projects/"
+layout: page
 title: Projects
-layout: splash
+permalink: /projects/
+---
+
+## About
+
+WebJeda is a web designing company
+.
+.
+.
+
+**Disclaimer:** This website is under constant modification.
+If you find something isn't right then,
+I might be doing some change in the back-end.
+
+<!-- ---
+permalink: /projects/
+title: Projects
+layout: page
 date: 2016-03-23T11:48:41-04:00
 
 header:
@@ -50,13 +67,10 @@ feature_row:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Hobby Projects"
-
     excerpt: "Bass Guitar, Wooden Furniture"
-
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -92,4 +106,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %} -->
