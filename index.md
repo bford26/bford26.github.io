@@ -3,7 +3,7 @@ layout: single
 permalink: /
 title: "About Me"
 
-
+tagline: "Welcome to my personal website!"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 
@@ -11,7 +11,7 @@ author_profile: true
 toc: false
 ---
 
-Welcome to my personal website! Here you can learn about my interests, goals, and background in physics and electrical engineering. Navigate to the projects page to see fun side projects I have done in my free time, or look at the recent posts to see what I have been doing lately.
+ Here you can learn about my interests, goals, and background in physics and electrical engineering. Navigate to the projects page to see fun side projects I have done in my free time, or look at the recent posts to see what I have been doing lately.
 
 <!-- # Research Summary
 During my first summer at UTK, in 2018, I had my first internship through the DOE program, SULI at Oak Ridge National Laboratory (ORNL). At ORNL, I worked in the Energy and Transportation Science Division. My internship was based around a(n) mechanical/industrial engineering perspective. My main project there was based on research for Electro-technologies that could replace fuel-fired process heating. However, I was also working with my group on two other projects involving smart manufacturing and industrial remanufacturing.
