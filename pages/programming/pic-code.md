@@ -7,7 +7,7 @@ author_profile: false
 toc: true
 ---
 
-I started this project after being inspired by my summer experience at ORNL working with beam physics simulations. The major concept is to use a PIC framework to solve the governing equations (i.e. maxwell's, Vlasov-Poisson).     
+I started this project after being inspired by my Summer experience at ORNL working with beam physics simulations. The major concept is to use a PIC framework to solve the governing equations.
 
 ## Important Classes
 

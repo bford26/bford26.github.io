@@ -2,6 +2,7 @@
 layout: single
 title: "A* Maze Solver"
 permalink: /projects/a-star/
+class: wide-nosb-toc
 author_profile: false
 toc: true
 ---

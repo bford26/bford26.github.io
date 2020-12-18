@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "*Gauntlet* OOP Codesample"
-permalink: /projects/gauntlet/
+title: "2.4 GHz Oscillator"
+permalink: /projects/a-star/
 class: wide-nosb-toc
 author_profile: false
 toc: true
 ---
-

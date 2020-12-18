@@ -2,6 +2,7 @@
 layout: single
 title: "QuadTree Implementation"
 permalink: /projects/qtree/
+class: wide-nosb-toc
 author_profile: false
 toc: true
 ---
