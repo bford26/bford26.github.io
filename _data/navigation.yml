@@ -3,11 +3,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Posts"
-    url: /posts/
+  - title: "Resume"
+    url: https://bford26.github.io/files/BF_Resume_2020.pdf
+    
+  # - title: "Posts"
+  #   url: /posts/
 
 # Defualt Options
   # - title: "Quick-Start Guide"
