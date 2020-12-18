@@ -2,7 +2,7 @@
 layout: single
 title: "Particle-in-Cell Codebase"
 permalink: /projects/pic-code/
-author_profile: false
+author_profile: true
 toc: true
 ---
 
@@ -50,7 +50,7 @@ From the equation our expected value for the Larmor radius is $r_g = 5.69$ $\mu 
 
 Here is a gif of the pure rotation simulation:
 
-<div style="text-align:center"><img src="../images/PICrotattion.gif" alt="Rotation Simulation" class="center" width="500"></div>
+<div style="text-align:center"><img src="/assets/my_images/PICrotattion.gif" alt="Rotation Simulation" class="center" width="500"></div>
 
 The actual code is *simulation.py* in the pPIC repo on my github. 
 
