@@ -2,7 +2,8 @@
 layout: single
 title: "Particle-in-Cell Codebase"
 permalink: /projects/pic-code/
-author_profile: true
+class: wide-nosb-toc
+author_profile: false
 toc: true
 ---
 

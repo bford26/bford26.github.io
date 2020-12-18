@@ -2,7 +2,7 @@
 layout: single
 title: "PyOrbit Contributions"
 permalink: /projects/pyorbit/
-# classes: wide
+classes: wide-nosb-toc
 author_profile: false
 toc: true
 ---

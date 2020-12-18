@@ -557,3 +557,44 @@ body {
     }
   }
 }
+
+
+
+/*
+   Wide-nosb Pages
+   ========================================================================== */
+
+   .wide-nosb-toc {
+    .page {
+      @include breakpoint($large) {
+        float: left;
+        width: calc(100% - #{$right-sidebar-width-narrow});
+        padding-right: 0;
+      }
+
+      @include breakpoint($x-large) {
+        float: left;
+        width: calc(100% - #{$right-sidebar-width});
+        padding-right: 0;
+      }
+    }
+  
+    .page__related {
+      @include breakpoint($large) {
+        float: left;
+        width: calc(100% - #{$right-sidebar-width-narrow});
+        padding-right: 0;
+      }
+  
+      @include breakpoint($x-large) {
+        float: left;
+        width: calc(100% - #{$right-sidebar-width});
+        padding-right: 0;
+      }
+    }
+  }
+
+
+
+
+
