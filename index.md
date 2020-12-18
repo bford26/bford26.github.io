@@ -16,7 +16,7 @@ toc: false
  
 ## Interests & Goals
 
-
+My interests are focused on the pursuit of learning more about computational and plasma phsyics. The field of plasma physics is extremely interesting because of the various backgrounds used. Which include RF engineering, computational modeling, and the study of non-linear models. My goals include obtaining a PhD in plasma physics, so that I will be able to study plasma physics at a national laboratory and university.
 
 ## Research Summary
 

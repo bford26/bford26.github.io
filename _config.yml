@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Brent Ford"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brent Ford"
 description              : "An amazing website."
@@ -136,6 +136,9 @@ include:
   - .htaccess
   - _pages
   - pages
+  - pages/programming/
+  - pages/design/
+  - pages/hobby/
 
 exclude:
   - "*.sublime-project"
