@@ -25,7 +25,9 @@ gem "tzinfo-data"
 #   gem "jekyll-gist"
 #   gem "jekyll-feed"
 #   gem "jekyll-include-cache"
-#
+# height="50%" width="50%"
+
+
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
 end
