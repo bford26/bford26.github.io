@@ -15,7 +15,7 @@ feature_row_txt:
     excerpt: "* [PyOrbit Contributions](/projects/pyorbit/)\n* [Gauntlet OOP Codesample](/projects/gauntlet/)\n* [PIC Code](/projects/pic-code/)\n* [QuadTree Implementation](/projects/qtree/)\n* [A* Maze Solver](/projects/a-star/)"
 
   - title: "Circuit Designs"
-    excerpt: "* [Audio Preamp](/projects/audio-amp/)\n* [RF Oscillator](/projects/oscillator/)\n* [LNA](/projects/lna/)"
+    excerpt: "* [LNA](/projects/lna/)" #"* [Audio Preamp](/projects/audio-amp/)\n* [RF Oscillator](/projects/oscillator/)\n* [LNA](/projects/lna/)"
 
   - title: "Hobbies"
     excerpt: "* [Electric Bass Guitar](/projects/bass-guitar/)\n* [Wooden Furniture](/projects/wooden-furniture/)"
