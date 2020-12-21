@@ -32,15 +32,9 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
 
 ### Design Specifications
 
-<!-- | ![body](/assets/my_images/body_design.png) | ![headstock](/assets/my_images/headstock_design.png){: height=""} -->
-
-<!-- <h2 class="archive_item-title">Neck Dimensions</h2> -->
-<!-- ![neck](/assets/my_images/neck_design.png){: .align-center} -->
-
 {% include gallery caption="" %}
 
 {% include gallery id="gallery2" caption="" %}
-
 
 ## Materials
 
@@ -59,10 +53,6 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
   * Ernie Ball Regular Slinky Nickel Wound Strings (0.050-0.105 Thickness)
 
 ## Construction
-
-
-
-
 
 ### Rough Shaping
 
