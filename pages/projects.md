@@ -21,7 +21,7 @@ feature_row_txt:
     excerpt: "* [Electric Bass Guitar](/projects/bass-guitar/)\n* [Wooden Furniture](/projects/wooden-furniture/)"
 
 feature_row2:
-  - image_path: /assets/my_images/pre_assem_bass.png
+  - image_path: /assets/my_images/finished_bass_recliner.png
     title: "Custom Bass Guitar"
     excerpt: 'This is a fun project I finish during the 2020 Summer. Hopefully, I can learn to play it soon.'
     url: /projects/bass-guitar/

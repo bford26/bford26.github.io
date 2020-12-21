@@ -7,9 +7,9 @@ author_profile: false
 toc: true
 ---
 
-This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects: bookselves and desks.
+This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects like bookselves and desks. Here the most recent image of my guitar.
 
-![Finished Bass](/assets/my_images/finished_bass_recliner.png){: .align-cneter}
+![Finished Bass](/assets/my_images/finished_bass_recliner.png){: .align-center width="60%"}
 
 ## Design
 
@@ -48,9 +48,11 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
   </div>
 </div> -->
 
+### Design Specifications
+
 | ![body](/assets/my_images/body_design.png) | ![headstock](/assets/my_images/headstock_design.png){: height=""}
 
-<h2 class="archive_item-title">Neck Dimensions</h2>
+<!-- <h2 class="archive_item-title">Neck Dimensions</h2> -->
 ![neck](/assets/my_images/neck_design.png){: .align-center}
 
 ## Materials
