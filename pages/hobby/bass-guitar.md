@@ -9,7 +9,7 @@ toc: true
 
 This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects: bookselves and desks.
 
-![Finished Bass](/assets/my_images/finish_bass_recliner.png){: .align-cneter}
+![Finished Bass](/assets/my_images/finished_bass_recliner.png){: .align-cneter}
 
 ## Design
 
