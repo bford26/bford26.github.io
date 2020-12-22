@@ -2,7 +2,7 @@
 layout: single
 title: "Low Noise Amplifier"
 permalink: /projects/lna/
-class: wide-nosb-toc
+classes: wide-nosb-toc
 author_profile: false
 toc: true
 ---
