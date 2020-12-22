@@ -38,7 +38,7 @@ Our circuit is to be made to match these paramters:
 
 Using these contraints we will optimize the micro-strip line dimensions to change within a $\pm5\%$ range. These goals represent the insertion loss($S_{22}$) and the simulated noise at 2.4 GHz. The noise figure value is determine from the simulated noise circle from the smith plot below.
 
-![Noise and Gain Circles Plot](/assets/my_files/CIRplot.png){: .align-center width="50%"}
+![Noise and Gain Circles Plot](/assets/my_images/CIRplot.png){: .align-center width="50%"}
 
 Advancing the circuit model, we used stub matching. This is done by determining the input and output impedance and creating a transmission lines with the complex conjugate of the impedance. Then with a stub matching network established, the transistor bias lines could be added to our model. 
 
