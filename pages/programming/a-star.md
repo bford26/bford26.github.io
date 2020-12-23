@@ -2,9 +2,17 @@
 layout: single
 title: "A* Maze Solver"
 permalink: /projects/a-star/
-class: wide-nosb-toc
+classes: wide-nosb-toc
 author_profile: false
 toc: true
+
+gallery:
+  - image_path: /assets/my_images/AStarPath.png
+    alt: "Found Path"
+    title: "Found Path"
+  - image_path: /assets/my_images/nopath.png
+    alt: "No Path"
+    title: "No Path"
 ---
 
 I started this project as a fun and simple experiment to learn more about computer science algorithms.
@@ -36,7 +44,7 @@ A more interesting option is the Prim's Maze algorithm. This method ensures a pa
 
 Here are the results from the project. For a display method I used the python package pygame. The left image shows the A\* path with a found solution. Red cells represent the closed set, while the green show the openset at the time of finding a solution. The right image is an example of the randomized obstacle generation creating a grid with no solution. This example shows one of the main drawbacks to the A\* algorithm, memory use. All red cells represent a closed set spot object. For the situation here this problem is not significant, but for situations that required massive searches A* can become problematic because of the memory requirements.
 
-<div style="text-align:center"><img src="../images/AStarPath.png" alt="Found Path" width="350"/> <img src="../images/nopath.png" alt="No Solution" width="350"/></div>
+{% include gallery caption="" %}
 
 ## Resources
 
