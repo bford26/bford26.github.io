@@ -5,6 +5,19 @@ permalink: /projects/audio-amp/
 classes: wide-nosb-toc
 author_profile: false
 toc: true
+
+# input and output gain stages 
+titled_gallery:
+  - image_path: /assets/my_images/audio_amp/input_gain.png
+    title: "Input Gain Stage"
+    type: "top-titles"
+
+  - image_path: /assets/my_images/audio_amp/output_gain.png
+    title: "Output Gain Stage"
+    type: "top-titles"
+
+# ploted results
+# gallery2:
 ---
 
 
@@ -14,7 +27,7 @@ This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is 
 
 * 3-Band Equilizer
   * 40 Hz: $\pm$ 16 dB
-  * 400/650 Hz: $\pm$ 13 dB
+  * 450 Hz: $\pm$ 13 dB
   * 6.5 kHz: $\pm$ 13 dB
 * Input Impedance 1 M$\Omega$
 * Output Impedance 100 $\Omega$
@@ -67,22 +80,21 @@ The input stage of this circuit will set both the input resistance and -3dB $f_{
 
 These stages bridge the input and output stages to the Boost/Cut circuit, which are used to tune the baseline gain. The coupling capacitors cause some drop in the gain, which is counter acted by these stages. Note in the gain stage directly after the input stage a capacitor provides a feedback path, which is used to reduce the range for this circuit. This was used to hopefully save some DC power. The capacitor sets the $-3dB$ high frequency, ~27 kHz.
 
-![Input Gain Stage](/assets/my_images/audio_amp/input_gain.png){: .align-center}
+<!-- ![Input Gain Stage](/assets/my_images/audio_amp/input_gain.png){: .align-center}
 
-![Output Gain Stage](/assets/my_images/audio_amp/output_gain.png){: .align-center}
+![Output Gain Stage](/assets/my_images/audio_amp/output_gain.png){: .align-center} -->
+
+{% include titled_gallery %}
 
 ### Kenneth James Boost/Cut Circuit
-
 
 ![Gain Stage](/assets/my_images/audio_amp/summing_feedback.png){: .align-center}
 
 ### Active Filters Stage
 
-The active filter stage consists of a 3 band pass filters. The targeted frequency were 40, 450, and 6,500 Hz. The simulated
+The active filter stage consists of a 3 band pass filters. The targeted frequency were 40, 450, and 6,500 Hz.
 
 ![Active Filters](/assets/my_images/audio_amp/gain_filters.png){: .align-center}
-
-
 
 ## Simulation Results
 
