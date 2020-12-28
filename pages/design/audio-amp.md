@@ -17,8 +17,8 @@ This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is 
   * 400/650 Hz: $\pm$ 13 dB
   * 6.5 kHz: $\pm$ 13 dB
 * Input Impedance 1 M$\Omega$
-* Output Impedance 600$\Omega$
-* 9 Volt PS
+* Output Impedance 100 $\Omega$
+* 9 or 18 Volt PS
   
 ## Materials
 
@@ -47,13 +47,15 @@ This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is 
 
 ## Circuit Design
 
-[Full Circuit Schematic](https://www.bford25.github.io/assets/my_images/audio_amp/full_circuit.png){: target="_blank"}
+Due to the circuit size, the link below opens a zoomable image to see the entire circuit. However, the entire circuit is detialed below.
+
+External Link: [Full Circuit Schematic](https://bford26.github.io/assets/my_images/audio_amp/full_circuit.PNG){: target="_blank" }
 
 ### Power Supply
 
-Below is the power supply used for the circuit. Notice the voltage divider, which is used to provide room for the signal to swing from $V_{cc}/2$ instead of ground because we do not actually have a negitive voltage for '$V_{ee}$'.
+Below is the power supply used for the circuit. Notice the voltage divider, which is used to provide room for the signal to swing from $V_{cc}/2$ instead of ground because we do not actually have a negitive voltage for negative rail.
 
-![Power Supply](/assets/my_images/audio_amp/power_supply.png){: .align-center }
+![Power Supply](/assets/my_images/audio_amp/power_supply.png){: .align-center  width="60%" }
 
 ### Input Stage
 
