@@ -4,16 +4,26 @@
   {% assign titled_gallery = page.titled_gallery %}
 {% endif %}
 
+{% if include.layout %}
+  {% assign titled_gallery_layout = include.layout %}
+{% else %}
+  {% if titled_gallery.size == 2 %}
+    {% assign titled_gallery_layout = '-half' %}
+  {% elsif titled_gallery.size >= 3 %}
+    {% assign titled_gallery_layout = '' %}
+  {% else %}
+    {% assign titled_gallery_layout = '' %}
+  {% endif %}
+{% endif %}
+
 <div class="feature__wrapper">
-
   {% for f in titled_gallery %}
-
-    <div class="feature__item-half">
+    <div class="feature__item{{ titled_gallery_layout }}">
       <div class="archive__item">
         
         <div class="archive__item-body">
           {% if f.title %}
-            <h4 class="archive__item-title">{{ f.title }}</h2>
+            <h4 class="archive__item-title">{{ f.title }}</h4>
           {% endif %}
         </div>
 
