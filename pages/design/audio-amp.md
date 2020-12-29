@@ -38,7 +38,7 @@ titled_gallery3:
 
 This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is used to provide more control over the sound of the bass. Specifications for this project were derived from available pre-amps, specifically the [Aguilar OBP-3TKPP](https://www.aguilaramp.com/pickup-series/obp-preamps/).
 
-## Target Specifications
+<!-- ## Target Specifications
 
 * 3-Band Equilizer
   * 40 Hz: $\pm$ 16 dB
@@ -54,25 +54,7 @@ This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is 
   * TL072
 * Potentiometers
   * 100k$\Omega$ Linear
-  * 25k$\Omega$ Log
-
-<details>
-  <summary>Resistors</summary>
-    1. 10k\n
-    2. 1.1k\n
-    3. 2.2k\n
-    4. 1M\n
-</details>
-
-<details>
-  <summary>Capacitors</summary>
-    1. 68n\n
-    2. 10 $\mu$\n
-    3. 470 $\mu$\n
-    4. 0.68 $\mu$\n
-    5. 4n\n
-</details>
-
+  * 25k$\Omega$ Log -->
 ## Circuit Design
 
 External links will open the image in a new tab to show the details of the circuit/image.
@@ -104,7 +86,7 @@ These stages bridge the input and output stages to the Boost/Cut circuit, which 
 ### Kenneth James Boost/Cut Circuit
 
 <!-- ![Gain Stage](/assets/my_images/audio_amp/summing_feedback.png){: .align-center} -->
-External Link: [Boost/Cut Circuit](https://bford26.github.io/assets/my_images/audio_amp/summing_feedback.png){: target="_blank" }
+External Link: [Boost/Cut Circuit](https://bford26.github.io/assets/my_images/audio_amp/summing_feedback.PNG){: target="_blank" }
 
 ### Active Filters Stage
 
@@ -135,8 +117,7 @@ Looking at the level response, where no boost or cut was applied, we can see a s
 
 ## Future Work
 
-Currently, no real circuit has been made a tested. This is only the design, so hopefully I can order a PCB after I maKe a perf board prototype and verify the circuit. For the prototype I am only missing the two 25k pots and a handful of the capacitors, which I plan to purchase from the UTK parts store.
-
+Currently no prototype has been made and tested. This is only the design, and hopefully I can order a PCB after I maKe a perf board prototype and verify the circuit results to the simulations. For the prototype I am only missing the two 25k potentiometers and a handful of the capacitors, which I plan to purchase from the UTK parts store.
 ## Resources
 
 * Sampson, Dave. "Bass Guitar Preamp Design", Baltika Group. [link](http://press.baltikagroup.com/wp-content/uploads/2014/07/Bass-Guitar-Preamp-Design.pdf)
