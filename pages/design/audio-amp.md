@@ -38,7 +38,7 @@ titled_gallery3:
 
 This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is used to provide more control over the sound of the bass. Specifications for this project were derived from available pre-amps, specifically the [Aguilar OBP-3TKPP](https://www.aguilaramp.com/pickup-series/obp-preamps/).
 
-<!-- ## Target Specifications
+## Target Specifications
 
 * 3-Band Equilizer
   * 40 Hz: $\pm$ 16 dB
@@ -48,13 +48,14 @@ This audio pre-amp is a part of the Custom Bass Guitar project. This pre-amp is 
 * Output Impedance 100 $\Omega$
 * 9 or 18 Volt PS
   
-## Materials
+<!-- ## Materials
 
 * Amplifier
   * TL072
 * Potentiometers
   * 100k$\Omega$ Linear
   * 25k$\Omega$ Log -->
+
 ## Circuit Design
 
 External links will open the image in a new tab to show the details of the circuit/image.
