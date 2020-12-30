@@ -66,13 +66,13 @@ External Link: [Full Circuit Schematic](https://bford26.github.io/assets/my_imag
 
 Below is the power supply used for the circuit. Notice the voltage divider, which is used to provide room for the signal to swing from $V_{cc}/2$ instead of ground because we do not actually have a negitive voltage for negative rail.
 
-![Power Supply](/assets/my_images/audio_amp/power_supply.png){: .align-center  width="60%" }
+![Power Supply](/assets/my_images/audio_amp/power_supply.PNG){: .align-center  width="60%" }
 
 ### Input Stage
 
 The input stage of this circuit will set both the input resistance and -3dB $f_{low}$ point, which should be below 10 Hz. 
 
-![Input Stage](/assets/my_images/audio_amp/input_stage.png){: .align-center}
+![Input Stage](/assets/my_images/audio_amp/input_stage.PNG){: .align-center}
 
 ### Gain Stages
 
@@ -104,7 +104,7 @@ External Link: [Boost/Cut Circuit](https://bford26.github.io/assets/my_images/au
 
 Looking at the output, we can see that a large capacitor is found in series with the signal path. This is the main result of only having a postive voltage and ground for the amplified signal to swing between. A zero DC offset is a must for any low impedance load that might be connected to the output. Typically the load connected would be around 10 times the output resistance of the circuit, but we must account for accidents and miss-use. This means we need to have a capacitor at the output, but the size of the capcaitor comes from the desired output resistance and where the -3 dB corner is placed. Our output resistance is targeted at 100 $\Omega$, so we need a large capacitence to have a -3 dB corner lower that  40 Hz.
 
-![Output Stage](/assets/my_images/audio_amp/output_stage.png){: .align-center}
+![Output Stage](/assets/my_images/audio_amp/output_stage.PNG){: .align-center}
 
 ## Simulation Results
 
