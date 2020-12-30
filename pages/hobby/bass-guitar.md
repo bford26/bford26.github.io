@@ -7,22 +7,22 @@ author_profile: false
 toc: true
 
 gallery:
-  - image_path: /assets/my_images/body_design.png
+  - image_path: /assets/my_images/bass/body_design.png
     alt: "body design"
     title: "Body Dimensions"
-  - image_path: /assets/my_images/headstock_design.png
+  - image_path: /assets/my_images/bass/headstock_design.png
     alt: "head design"
     title: "Headstock Dimensions"
 
 gallery2:
-  - image_path: /assets/my_images/neck_design.png
+  - image_path: /assets/my_images/bass/neck_design.png
     alt: "neck design"
     title: "Neck Dimensions"
 ---
 
 This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects like bookselves and desks. Here the most recent image of my guitar.
 
-![Finished Bass](/assets/my_images/finished_bass_recliner.png){: .align-center width="60%"}
+![Finished Bass](/assets/my_images/bass/finished_bass_recliner.png){: .align-center width="60%"}
 
 ## Design
 
@@ -58,7 +58,7 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
 
 With the rough stock for the body, the first step was creating flat faces so the wood could be glued together. This involved the use of wood plane and jointer. The result was three wood planks with flat and striaght sides, each ready for glue.
 
-![LaminatedBody](/assets/my_images/body_laminated.jpg){: .align-center width="50%" }
+![LaminatedBody](/assets/my_images/bass/body_laminated.jpg){: .align-center width="50%" }
 
 A design was scribed to the body blank and shaped using the bandsaw. However, due to the tight curve designed for the arms on the body, a drum sander was required as well. Then came the rough shaping of the fretboard and neck. From a large stock the fret board was split using a bandsaw and a taper was applied.
 
@@ -67,7 +67,7 @@ A design was scribed to the body blank and shaped using the bandsaw. However, du
 At this stage the body is shaped to 
 Outlined in the design, the connection between the body and neck secured by a pocket where the base of the neck will rest, and fastened with wood screws and a brass backplate. The figure below shows the pocket for the neck.
 
-![BodyPocket](/assets/my_images/neck_hole.jpg){: .align-center width="50%"}
+![BodyPocket](/assets/my_images/bass/neck_hole.jpg){: .align-center width="50%"}
 
 This pocket was made using a router, and refined using chisels for the corners.
 
@@ -76,7 +76,7 @@ This pocket was made using a router, and refined using chisels for the corners.
   * routing neck hole -> error -> chisel work and inlay
   * routing pickup holes and electronics cavity
 
-![RoughFit](/assets/my_images/body_neck_roughfit.jpg){: .align-center width="50%" }
+![RoughFit](/assets/my_images/bass/body_neck_roughfit.jpg){: .align-center width="50%" }
 
 * making custom back plate for secure body to neck connection
 * installing bridge and ensuring a properly aligned neck to body with strings

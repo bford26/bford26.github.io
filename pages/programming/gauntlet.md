@@ -44,7 +44,7 @@ PAUSED halts all game logic and simply overlaps a resume and quit menu.
 
 OVER does not exit the game immediately. This gamestate renders the exit animation for the player, then ends the OnUserUpdate game loop.
 
-![Exitgif](/assets/my_images/player_exit.gif){: .align-center width="50%"}
+![Exitgif](/assets/my_images/code/player_exit.gif){: .align-center width="50%"}
 
 ### OnUserDestroy
 

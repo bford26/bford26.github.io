@@ -7,10 +7,10 @@ author_profile: false
 toc: true
 
 gallery:
-  - image_path: /assets/my_images/AStarPath.png
+  - image_path: /assets/my_images/code/AStarPath.png
     alt: "Found Path"
     title: "Found Path"
-  - image_path: /assets/my_images/nopath.png
+  - image_path: /assets/my_images/code/nopath.png
     alt: "No Path"
     title: "No Path"
 ---

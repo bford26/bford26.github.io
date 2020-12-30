@@ -7,18 +7,18 @@ author_profile: false
 toc: true
 
 gallery:
-  - image_path: /assets/my_images/Gain_plot.png
+  - image_path: /assets/my_images/lna/Gain_plot.png
     alt: "Gain Plot"
     title: "Gain Plot"
-  - image_path: /assets/my_images/Sii_plot.png
+  - image_path: /assets/my_images/lna/Sii_plot.png
     alt: "Insertion Losses"
     title: "Insertion Losses"
 
 gallery2:
-  - image_path: /assets/my_images/NFplot.png
+  - image_path: /assets/my_images/lna/NFplot.png
     alt: "Noise Figure"
     title: "Noise Figure"
-  - image_path: /assets/my_images/LNA_layout.png
+  - image_path: /assets/my_images/lna/LNA_layout.png
     alt: "Final Layout and Design"
     title: "Final Layout and Design"
 ---
@@ -27,7 +27,7 @@ RF communication is based on four major components: the antenna, low noise ampli
 
 As a member of a design team, one of the designed circuits I submitted was the LNA. I began the process with simulation, using Keysight's ADS software, for the most simplified version of the circuit. Because the LNA's transistor operates in a stable and linear region, our simulation can take advantage of the Scattering Parameters (S-Params).
 
-![init LNA](/assets/my_images/BaseLNA.png){: .align-center width="50%"}
+![init LNA](/assets/my_images/lna/BaseLNA.png){: .align-center width="50%"}
 
 Above is a picture of the first circuit simulation. Here we are creating a matching network taking into account only the transistor. Throughout the design process our ADS model will become more accurate, and close in on a design solution to the optimization parameters.
 
@@ -38,7 +38,7 @@ Our circuit is to be made to match these paramters:
 
 Using these contraints we will optimize the micro-strip line dimensions to change within a $\pm5\%$ range. These goals represent the insertion loss($S_{22}$) and the simulated noise at 2.4 GHz. The noise figure value is determine from the simulated noise circle from the smith plot below.
 
-![Noise and Gain Circles Plot](/assets/my_images/CIRplot.png){: .align-center width="50%"}
+![Noise and Gain Circles Plot](/assets/my_images/lna/circle_plot.png){: .align-center width="50%"}
 
 Advancing the circuit model, we used stub matching. This is done by determining the input and output impedance and creating a transmission lines with the complex conjugate of the impedance. Then with a stub matching network established, the transistor bias lines could be added to our model. 
 

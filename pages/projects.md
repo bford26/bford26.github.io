@@ -21,7 +21,7 @@ feature_row_txt:
     excerpt: "* [Electric Bass Guitar](/projects/bass-guitar/)\n* [Wooden Furniture](/projects/wooden-furniture/)"
 
 feature_row2:
-  - image_path: /assets/my_images/finished_bass_recliner.png
+  - image_path: /assets/my_images/bass/finished_bass_recliner.png
     title: "Custom Bass Guitar"
     excerpt: 'This is a fun project I finish during the 2020 Summer. Hopefully, I can learn to play it soon.'
     url: /projects/bass-guitar/
@@ -29,7 +29,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/my_images/startScreen.png
+  - image_path: /assets/my_images/code/startScreen.png
     title: "Gauntlet OOP Codesample"
     excerpt: 'During the 2020 quaritine, I started this project to make a complete demonstration of my OOP skills. Typically tedious and boring, I decided to create a codesample that was greatly influenced my by nastalgia for the classic NES video game *Gauntlet*.'
     url: "/projects/gauntlet/"
@@ -37,7 +37,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/my_images/SelfConDist.png
+  - image_path: /assets/my_images/pyorbit/SelfConDist.png
     title: "PyOrbit Contributions"
     excerpt: 'A collection of work involing my research done at Oak Ridge National Laboratory.'
     url: "/projects/pyorbit/"
