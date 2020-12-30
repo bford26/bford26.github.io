@@ -6,7 +6,7 @@ classes: wide-nosb-toc
 author_profile: false
 toc: true
 
-Gallery:
+gallery:
     - image_path: /assets/my_images/wood/taylor_desk1.jpg
     - image_path: /assets/my_images/wood/taylor_desk2.jpg
 ---
@@ -16,7 +16,7 @@ Gallery:
 
 {% include gallery %}
 
-Above is a project made for a client during the Summer of 2020. Project consisted consulting with the client for specifics like dimensions and style, guided by my experience. 
+Above is a project made for a client during the Summer of 2020. Project consisted consulting with the client for specifics like dimensions and style, guided by my experience.
 
 <!-- ### Challenges
 
