@@ -8,11 +8,11 @@ toc: true
 
 # input and output gain stages 
 titled_gallery:
-  - image_path: /assets/my_images/audio_amp/input_gain.png
+  - image_path: /assets/my_images/audio_amp/input_gain.PNG
     title: "Input Gain Stage"
     type: "top-titles"
 
-  - image_path: /assets/my_images/audio_amp/output_gain.png
+  - image_path: /assets/my_images/audio_amp/output_gain.PNG
     title: "Output Gain Stage"
     type: "top-titles"
 
