@@ -98,7 +98,7 @@ The active filter stage consists of a 3 band pass filters. The targeted frequenc
 The link below opens the actual circuit in a new tab and has the exact values listed.
 
 <!-- ![Active Filters](/assets/my_images/audio_amp/gain_filters.png){: .align-center} -->
-External Link: [Boost/Cut Circuit](https://bford26.github.io/assets/my_images/audio_amp/gain_filters.png){: target="_blank" }
+External Link: [Boost/Cut Circuit](https://bford26.github.io/assets/my_images/audio_amp/gain_filters.PNG){: target="_blank" }
 
 ### Output Stage
 
