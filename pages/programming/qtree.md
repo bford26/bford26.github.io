@@ -23,7 +23,7 @@ The basic process for this project is to create single quadtree object, populate
 
 ## Results
 
-I am currently focusing on the main PIC project, which will use this code to run basic tests. However, I have uploaded the python files for my QuadTree implementation to my GitHub repo. In the PIC project, the Quadtree package will be used to help reduce the amount of calculations required for collisions and effect of self generated magnetic fields.
+I do not have any created particle simulations, but I have uploaded the python files for my QuadTree implementation to my GitHub. In the PIC project, the Quadtree package will be used to help reduce the amount of calculations required for calculating the collisions operator and effect of self generated magnetic fields.
 
 ## Resources
 

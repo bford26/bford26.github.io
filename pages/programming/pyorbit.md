@@ -21,7 +21,7 @@ $$ Phi(s) = R(s,s_0) \cdot \Phi(s_0) $$
 
 For the concept of uniform focusing our transport matrix simplifies because we make simple assumptions about the symmitries and it is defined in terms of the Twiss parameters.  
 
-<div style="text-align:center"><img src="/assets/my_images/TransportMatrix.PNG" alt="TransMatrix" class="center" width="500"></div>
+<div style="text-align:center"><img src="/assets/my_images/TransportMatrix.png" alt="TransMatrix" class="center" width="500"></div>
 
 Using this transport matrix and parameters defined in by the particle distribution. We created a new node class that can be given certain parameters like element length, curvature, and XY tunes to determine the values to fill the matrix. We determined the validity of the model using a test case of the following specifications:
 
@@ -32,7 +32,7 @@ Using this transport matrix and parameters defined in by the particle distributi
   
 From the test case we were looking for two major concepts to be upheld from the model, matching initial and final distributions and a decrease in the oscillation frequency from the statistical beta function.
 
-<img src="/assets/my_images/DistPic.png" alt="Distributions Comparison" width="450"/> <img src="/assets/my_images/StatBetaFunc.PNG" alt="Statistical Beta Functions" width="450"/>
+<img src="/assets/my_images/DistPic.png" alt="Distributions Comparison" width="450"/> <img src="/assets/my_images/StatBetaFunc.png" alt="Statistical Beta Functions" width="450"/>
 
 As seen from the results, both criteria for our model were met. Fortunately, we had about 7 weeks left for the internship and were able to continue the project to create 2 envelope solvers.
 
