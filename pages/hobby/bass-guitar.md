@@ -26,6 +26,9 @@ gallery3:
   - image_path: /assets/my_images/bass/body_neck_roughfit.jpg
     alt: "rough fit"
     title: "Body Neck Fit"
+  - image_path: /assets/my_images/bass/pre_assem_bass.png
+    alt: "fine fit pre-assembly"
+    title: "Fine fit"
 ---
 
 This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects like bookselves and desks. Here the most recent image of my guitar.
