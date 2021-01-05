@@ -44,7 +44,7 @@ Advancing the circuit model, we used stub matching. This is done by determining 
 
 ### Design Specifics
 
-Using two capacitors at 1nF and 10nF for the bias lines, the DC source will not be able to add any AC noise to our circuit. The transistor for the LNA, was an AT-41511 BJT and the subtrate for our circuit is FR4. As proper design practice approximately 5 vias to the ground plate were used to minimize the introduced inductance by the connnection. The bias line width is set to 10 mils because it was the smallest line width our fabrication could make.
+Using two capacitors at 1nF and 10nF for the bias lines, the DC source will not be able to add any AC noise to our circuit. The transistor for the LNA, was an AT-41511 BJT and the subtrate for our circuit is FR4. As proper design practice approximately 5 vias to the ground plate were used to minimize the introduced inductance by the connnection. The bias line width is set to 10 mils because it was the smallest line width possible for our fabrication.
 
 ### LNA Results
 
