@@ -83,7 +83,7 @@ To calculate where each fret slot needs to be made, we have the following formul
 
 ![Formula and Legend](/assets/my_images/bass/eq_legend.png){: .align-center width="65%"}
 
-![Fret Table](/assets/my_images/bass/fret_table.png){: .align-center width="45%"}
+![Fret Table](/assets/my_images/bass/fret_table.png){: .align-center width="50%"}
 
 ### Electronics
 
