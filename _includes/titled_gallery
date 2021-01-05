@@ -18,6 +18,7 @@
 
 <div class="feature__wrapper">
   {% for f in titled_gallery %}
+  
     <div class="feature__item{{ titled_gallery_layout }}">
       <div class="archive__item">
         

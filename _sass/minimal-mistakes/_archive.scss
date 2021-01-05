@@ -605,6 +605,7 @@
   }
 
   .feature__item,
+  .feature__item-half,
   .feature__item--left,
   .feature__item--center,
   .feature__item--right {
@@ -631,7 +632,7 @@
 /* Place inside a single layout */
 
 .layout--single {
-	.feature__wrapper {
+  .feature__wrapper {
 		display: inline-block;
-	}
+  }
 }

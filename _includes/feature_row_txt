@@ -4,12 +4,29 @@
   {% assign feature_row_txt = page.feature_row_txt %}
 {% endif %}
 
-<div class="feature__wrapper">
 
+
+{% if include.layout %}
+  {% assign feature_layout = include.layout %}
+{% else %}
+  {% if feature_row_txt.size == 2 %}
+    {% assign feature_layout = '-half' %}
+  {% elsif feature_row_txt.size >= 3 %}
+    {% assign feature_layout = '' %}
+  {% else %}
+    {% assign feature_layout = '' %}
+  {% endif %}
+{% endif %}
+
+
+
+<div class="feature__wrapper">
   {% for f in feature_row_txt %}
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    
+    <div class="feature__item{{ feature_layout }}">
       <div class="archive__item">
-        <div class="archive__item-body">
+
+        <div class="archive__item-body">    
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
@@ -22,5 +39,4 @@
       </div>
     </div>
   {% endfor %}
-
 </div>
