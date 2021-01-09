@@ -92,6 +92,7 @@ To calculate where each fret slot needs to be made, we have the following formul
 
 * Installing electronics: pickups, switches, audio jack.
 * Soldering the circuit (just the pots and passive elements, currently no pre-amp still needs fabrication)
+* [Pre-amp Design Project](/projects/audio-amp/)
 
 <!-- ## Tuning and Testing!
 
@@ -101,7 +102,7 @@ To calculate where each fret slot needs to be made, we have the following formul
 
 ## Project Review
 
-This was overall a great success! Even though I made a lot of mistakes, most were addressed in a creative and pragmatic way. Considering this was my first time building a guitar or something of this quality, I cant complain, and will most definently be revisiting this project to address my concerns.
+This was overall a great success! Even though I made a lot of mistakes, most were addressed in a creative and pragmatic way. Considering this was my first time building a guitar or something of this quality, I can't really complain, and will most definently be revisiting this project to address my concerns.
 
 ## Issues
 
