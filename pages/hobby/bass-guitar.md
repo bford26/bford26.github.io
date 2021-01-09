@@ -67,7 +67,7 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
 
 ### Rough Shaping
 
-Using the rough stock for the body, the first step was creating flat faces so the wood could be glued together. This involved the use of wood plane and jointer. The result was three wood planks with flat and striaght sides, each ready for glue. A design was scribed to the body blank and shaped using the bandsaw. However, due to the tight curve designed for the arms on the body, a drum sander was required as well. Then came the rough shaping of the fretboard and neck. From a large stock the fret board was split using a bandsaw and a taper was applied.
+Using the rough stock for the body, the first step was creating flat faces so the wood could be glued together. This involved the use of wood plane and jointer. The result was three wood planks with flat and striaght sides, each ready for the glueing process. A design was scribed to the body blank and shaped using the bandsaw. However, due to the tight curve designed for the arms on the body, a drum sander was required as well. Then came the rough shaping of the fretboard and neck. From a large stock the fret board was split using a bandsaw and a taper was applied.
 
 ![LaminatedBody](/assets/my_images/bass/body_laminated.jpg){: .align-center width="50%" }
 
