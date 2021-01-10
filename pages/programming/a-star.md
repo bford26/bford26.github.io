@@ -19,7 +19,7 @@ I started this project as a fun and simple experiment to learn more about comput
 
 ## Methods
 
-For a basic path finding algorithm the main idea is to weigh the different possiblities and create a cost function based on weights. A* uses this same concept, but uses a heuristic function which adds to the cost for each path.
+For a basic path finding algorithm the main idea is to weigh the different possibilities and create a cost function based on weights. A* uses this same concept, but uses a heuristic function which adds to the cost for each path.
 
 $$f(n) = g(n) + h(n)$$
 
@@ -36,13 +36,13 @@ For creating more complex paths for the algorithm to choose between I added two 
 * Random Blockades (problematic)
 * Prim's Maze
 
-The random option gives a quick and easy method of making a unique path, but depending on what type of obstacle density is give a solution may not always be avaiable.
+The random option gives a quick and easy method of making a unique path, but depending on what type of obstacle density is give a solution may not always be available.
 
 A more interesting option is the Prim's Maze algorithm. This method ensures a path will always be available, but does create a much easier solution for the A* method.
 
 ## Results
 
-Here are the results from the project. For a display method I used the python package pygame. The left image shows the A\* path with a found solution. Red cells represent the closed set, while the green show the openset at the time of finding a solution. The right image is an example of the randomized obstacle generation creating a grid with no solution. This example shows one of the main drawbacks to the A\* algorithm, memory use. All red cells represent a closed set spot object. For the situation here this problem is not significant, but for situations that required massive searches A* can become problematic because of the memory requirements.
+Here are the results from the project. For a display method I used the python package PyGame. The left image shows the A\* path with a found solution. Red cells represent the closed set, while the green show the openset at the time of finding a solution. The right image is an example of the randomized obstacle generation creating a grid with no solution. This example shows one of the main drawbacks to the A\* algorithm, memory use. All red cells represent a closed set spot object. For the situation here this problem is not significant, but for situations that required massive searches A* can become problematic because of the memory requirements.
 
 {% include gallery caption="" %}
 

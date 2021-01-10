@@ -20,7 +20,7 @@ gallery2:
 
 {% include gallery %}
 
-Above is a project made for a client during the Summer of 2020. Project consisted consulting with the client for specifics like dimensions and style, guided by my experience. Involved overcoming various challenges for the trim work, transportant, and solo contruction due to the large size of desk.
+Above is a project made for a client during the Summer of 2020. Project consisted consulting with the client for specifics like dimensions and style, guided by my experience. Involved overcoming various challenges for the trim work, transportation, and solo construction due to the large size of desk.
 
 <!-- ## Hidden Closet Bookshelves -->
 <!-- {% include gallery id="gallery2" %} -->

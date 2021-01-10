@@ -31,7 +31,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/my_images/code/startScreen.png
     title: "Gauntlet OOP Codesample"
-    excerpt: 'During the 2020 quaritine, I started this project to make a complete demonstration of my OOP skills. Typically tedious and boring, I decided to create a codesample that was greatly influenced my by nastalgia for the classic NES video game *Gauntlet*.'
+    excerpt: 'During the 2020 quarantine, I started this project to make a complete demonstration of my OOP skills. Typically tedious and boring, I decided to create a codesample that was greatly influenced my by nostalgia for the classic NES video game *Gauntlet*.'
     url: "/projects/gauntlet/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/my_images/pyorbit/SelfConDist.png
     title: "PyOrbit Contributions"
-    excerpt: 'A collection of work involing my research done at Oak Ridge National Laboratory.'
+    excerpt: 'A collection of work involving my research done at Oak Ridge National Laboratory.'
     url: "/projects/pyorbit/"
     btn_label: "Read More"
     btn_class: "btn--primary"

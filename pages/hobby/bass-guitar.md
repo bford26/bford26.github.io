@@ -31,7 +31,7 @@ gallery3:
     title: "Fine fit"
 ---
 
-This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects like bookselves and desks. Here the most recent image of my guitar.
+This project was started during the fall of 2019. Motivation for this build mainly came from the desire to challenge my fine wood working skills. My previous projects have honed my skills with large projects like bookshelves and desks. Here the most recent image of my guitar.
 
 ![Finished Bass](/assets/my_images/bass/finished_bass_recliner.png){: .align-center width="60%"}
 
@@ -39,7 +39,7 @@ This project was started during the fall of 2019. Motivation for this build main
 
 ### Inpiration
 
-This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](https://www.themusiczoo.com/products/f-bass-40th-anniversary-pj-bass-natural){:target="_blank"}. Even though the design is seriously influenced by Fbass guitar, I made informed desicions on every part of the build including fret count, scale size, and overall dimensions.
+This design was heavily inspired by the [Fbass 40th Anniversary P/J bass guitar](https://www.themusiczoo.com/products/f-bass-40th-anniversary-pj-bass-natural){:target="_blank"}. Even though the design is seriously influenced by Fbass guitar, I made informed decisions on every part of the build including fret count, scale size, and overall dimensions.
 
 ### Design Specifications
 
@@ -51,7 +51,7 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
 
 * Body
   * African Mahogany
-  * Northen Ash
+  * Northern Ash
 * Neck
   * Canadian Hard Maple
 * Fret Board
@@ -67,7 +67,7 @@ This design was heavily inspired by the [Fbass 40th Aniversary P/J bass guitar](
 
 ### Rough Shaping
 
-Using the rough stock for the body, the first step was creating flat faces so the wood could be glued together. This involved the use of wood plane and jointer. The result was three wood planks with flat and striaght sides, each ready for the glueing process. A design was scribed to the body blank and shaped using the bandsaw. However, due to the tight curve designed for the arms on the body, a drum sander was required as well. Then came the rough shaping of the fretboard and neck. From a large stock the fret board was split using a bandsaw and a taper was applied.
+Using the rough stock for the body, the first step was creating flat faces so the wood could be glued together. This involved the use of wood plane and jointer. The result was three wood planks with flat and straight sides, each ready for the glueing process. A design was scribed to the body blank and shaped using the bandsaw. However, due to the tight curve designed for the arms on the body, a drum sander was required as well. Then came the rough shaping of the fretboard and neck. From a large stock the fret board was split using a bandsaw and a taper was applied.
 
 ![LaminatedBody](/assets/my_images/bass/body_laminated.jpg){: .align-center width="50%" }
 
@@ -102,16 +102,16 @@ To calculate where each fret slot needs to be made, we have the following formul
 
 ## Project Review
 
-This was overall a great success! Even though I made a lot of mistakes, most were addressed in a creative and pragmatic way. Considering this was my first time building a guitar or something of this quality, I can't really complain, and will most definently be revisiting this project to address my concerns.
+This was overall a great success! Even though I made a lot of mistakes, most were addressed in a creative and pragmatic way. Considering this was my first time building a guitar or something of this quality, I can't really complain, and will most definitely be revisiting this project to address my concerns.
 
 ## Issues
 
-* The highest frets, specifically 19 and 21, have slightly flat notes. This is the result of a compounding errors due to my scribing method. My calpiers only have 12" range, so for scribing incrimental steps were made along with a fairly percise tape measure. But due to this these frets are off the proper mark by about 1/16th of an inch creating the flat sounds.
+* The highest frets, specifically 19 and 21, have slightly flat notes. This is the result of a compounding errors due to my scribing method. My calipers only have 12" range, so for scribing incremental steps were made along with a fairly precise tape measure. But due to this these frets are off the proper mark by about 1/16th of an inch creating the flat sounds.
 
 ## Future Ideas
 
 * Redo the finish for a more protective coat. The final layer should probably be Gun Oil so that the guitar does not require any future coats to maintain a protective coat, like it does with pure tung oil.
-* Potentially refretting the entire fret board. If necesisary, all the fret can be removed, and the fret board can be sanded flat again. If done I would build a jig for creating the frets due to the time and percision required last time. But hopefully just will refret the two problamatic frets. The method chosen will determine on how far the frets need to move and if the refretting will show imperfections.
+* Potentially refretting the entire fret board. If necessary, all the fret can be removed, and the fret board can be sanded flat again. If done I would build a jig for creating the frets due to the time and precision required last time. But hopefully just will refret the two problematic frets. The method chosen will determine on how far the frets need to move and if the refretting will show imperfections.
 * Creating a steeper pitch for the neck (re-facing the back of the neck). Sometimes if pluck very hard the strings with begin to ring. However for most situations the current pitch is perfect.
 
 <!-- * making custom back plate for secure body to neck connection

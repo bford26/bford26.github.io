@@ -19,7 +19,7 @@ OnUserCreate main purpose is allocating memory and loading in game information, 
 
 ### OnUserUpdate
 
-This is by far the most import function since it is responcible for all the function calls and general game logic. The main structure of the Update fucntion is a switch statement, handeling the differing logic for the various gamestates.
+This is by far the most import function since it is responsible for all the function calls and general game logic. The main structure of the Update function is a switch statement, handling the differing logic for the various gamestates.
 
 #### Gamestates
 
@@ -64,7 +64,7 @@ Seen from the class hierarchy shown below, the tile class is the highest level o
 
 ![Tile Class Hierarchy](https://bford26.github.io/OOPcodeSample/html/class_tile.png){: .align-center}
 
-The differences between each of the child classes is typically due to the need for more member variables. But classes inheriting from InterActionBlock only really differ in construtors and an override for the interaction public inherited member function.
+The differences between each of the child classes is typically due to the need for more member variables. But classes inheriting from InterActionBlock only really differ in constructors and an override for the interaction public inherited member function.
 
 ## Interactions
 
@@ -75,7 +75,7 @@ Because static objects never move no collision or interaction logic is required.
 * Mob vs Dynamic
   * Mobs interacting with projectiles or players
 
-Which are handeled with the Unit Collision member functions in the Gauntlet class.
+Which are handled with the Unit Collision member functions in the Gauntlet class.
 
 
 
@@ -139,7 +139,7 @@ OOPcodeSample
 
 This project is built using GCC Make.
 
-To build this project *Makefile* was the prefered choice, given its wide asscessibility. In the project root folder we have the main Makefile, which is used recursively in the root subfolders. This makes creation of new objects or functionalities easy just by creating a new subdirectory and specific makefile.
+To build this project *Makefile* was the preferred choice, given its wide accessibility. In the project root folder we have the main Makefile, which is used recursively in the root subfolders. This makes creation of new objects or functionalities easy just by creating a new subdirectory and specific makefile.
 
 The first compiles are for all external libraries, located in the */root/include/* directory. Currently, the only external library used is the OneLone
 

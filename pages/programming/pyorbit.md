@@ -7,7 +7,7 @@ author_profile: false
 toc: true
 ---
 
-Mentioned previously, PyOrbit is a simulation framework used to better study particle accellerators. The framework uses two major simulation tools; a bunch and nodes. A bunch is a collection of marco-particles, which can have a varity of attributes and flags. Nodes are used at the segmentation tool, in which a collection of nodes can be used to create a complete lattice. A defined lattice keeps the order of all nodes, and simulates an accellerator.
+Mentioned previously, PyOrbit is a simulation framework used to better study particle accelerators. The framework uses two major simulation tools; a bunch and nodes. A bunch is a collection of marco-particles, which can have a variety of attributes and flags. Nodes are used at the segmentation tool, in which a collection of nodes can be used to create a complete lattice. A defined lattice keeps the order of all nodes, and simulates an accelerator.
 
 ## Uniform Focusing
 
@@ -15,11 +15,11 @@ My project was to implement a Uniform Focusing Lattice to help study self-consis
 
 <div style="text-align:center"><img src="/assets/my_images/pyorbit/SelfConDist.png" alt="SelfConDist" class="center" width="500"></div>
 
-A major concept in the field of beam physics is linear transformations (i.e. FODO matrices), specificaly in 6D phase space. The linear transformations of the 6 coordinates can be represented by the transport matrix $R(s,s_0)$, where the it is a function of the points $s$ and $s_0$.
+A major concept in the field of beam physics is linear transformations (i.e. FODO matrices), specifically in 6D phase space. The linear transformations of the 6 coordinates can be represented by the transport matrix $R(s,s_0)$, where the it is a function of the points $s$ and $s_0$.
 
 $$ Phi(s) = R(s,s_0) \cdot \Phi(s_0) $$
 
-For the concept of uniform focusing our transport matrix simplifies because we make simple assumptions about the symmitries and it is defined in terms of the Twiss parameters.  
+For the concept of uniform focusing our transport matrix simplifies because we make simple assumptions about the symmetries and it is defined in terms of the Twiss parameters.  
 
 <div style="text-align:center"><img src="/assets/my_images/pyorbit/TransportMatrix.png" alt="TransMatrix" class="center" width="500"></div>
 
@@ -48,17 +48,17 @@ Therefore our envelope solver was based on *Eqs. (2-3)* where $u$ and $\nu$ repr
 
 $$ u'' + k(s) u = \frac{E_u^2}{u^3} + \frac{2 \Lambda}{\sqrt{u^2 + 4 D^2\sigma_E^2} + \nu} $$
 
-We made a new child node class to implement the envelope solver, which could be inserted into each node in a lattice. The solver will only use a single particle bunch, which will hold the envelope inital parameters defined by the Twiss parameters. Testing the envelope solver, we used the same test case defined above (50m, 200 Nodes), and created two different bunches. The first bunch was a collection of 10,000 macro particles, and the second contained only an envelope particle. Comparing the simulation results from the two bunches we determined the solver works as intended.
+We made a new child node class to implement the envelope solver, which could be inserted into each node in a lattice. The solver will only use a single particle bunch, which will hold the envelope initial parameters defined by the Twiss parameters. Testing the envelope solver, we used the same test case defined above (50m, 200 Nodes), and created two different bunches. The first bunch was a collection of 10,000 macro particles, and the second contained only an envelope particle. Comparing the simulation results from the two bunches we determined the solver works as intended.
 
 <div style="text-align:center"><img src="/assets/my_images/pyorbit/Envelopecomp.png" alt="EnvelopeCompared" class="center" width="60%"></div>
 
 ## Tilting Envelope Solver
 
-Moving foward in the project, we aimed to make a different solver that could add a wider range of distrobutions/beams that can use the envelope solver. This final envelope solver was made to handle tilting beams in contrast to basic rotating beams seen in the figures above. Unfortunately, the tilting envelope solver was tested using a particle bunch. However, we did do basic exmaples to verify it worked.
+Moving forward in the project, we aimed to make a different solver that could add a wider range of distributions/beams that can use the envelope solver. This final envelope solver was made to handle tilting beams in contrast to basic rotating beams seen in the figures above. Unfortunately, the tilting envelope solver was tested using a particle bunch. However, we did do basic examples to verify it worked.
 
 <div style="text-align:center"><img src="/assets/my_images/pyorbit/tiltinggif.gif" alt="Tilting Envelope" class="center" width="60%"></div>
 
-These solvers and Uniform Focusing model will help study the behavior of self-consistent beams. Such beams may be able to provide low-loss environments. For high intensity accelerators this may lead to increased longevity, reduced costs, and higher power. If the project was continuned, the major simulations and experimential runs would have involved self-consistent beams with extranious particles.
+These solvers and Uniform Focusing model will help study the behavior of self-consistent beams. Such beams may be able to provide low-loss environments. For high intensity accelerators this may lead to increased longevity, reduced costs, and higher power. If the project was continued, the major simulations and experimental runs would have involved self-consistent beams with extraneous particles.
 
 <div style="text-align:center"><img src="/assets/my_images/pyorbit/external.png" alt="Envelope and Particles" class="center" width="60%"></div>
 

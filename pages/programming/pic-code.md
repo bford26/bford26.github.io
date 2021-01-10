@@ -21,7 +21,7 @@ A YeeSpot object hold its position, and a charge. The charge on a YeeSpot will b
 
 ### Grid
 
-A grid object is what will be used to hold all the YeeSpot objects. A grid will take a resolution for the coordinates and the minimum and maximum values to create a uniformly spaced posistioning of grid points.
+A grid object is what will be used to hold all the YeeSpot objects. A grid will take a resolution for the coordinates and the minimum and maximum values to create a uniformly spaced positioning of grid points.
 
 
 ## Process
@@ -63,12 +63,12 @@ Eventually my plan for this project is to take advantage of a more efficient pro
 
 ## Resources
 
-  1. A detailed explaination and methodology, which helped with details of the simulation process. [link](https://www.particleincell.com/2010/es-pic-method/)
+  1. A detailed explanation and methodology, which helped with details of the simulation process. [link](https://www.particleincell.com/2010/es-pic-method/)
   2. A documentation of the Yee Lattice, which I hope to implement into my code to improve the FDM. [link](https://meep.readthedocs.io/en/latest/Yee_Lattice/)
   3. An example of a Vlasov Solver. [link](https://www.particleincell.com/2018/intro-to-vlasov-solvers/)
   4. This paper provided the proper information to solve the Poisson equation and information on the FDM. [link](https://my.ece.utah.edu/~ece6340/LECTURES/Feb1/Nagel%202012%20-%20Solving%20the%20Generalized%20Poisson%20Equation%20using%20FDM.pdf)
   5. Here is a lecture about the PIC method I found extremely helpful. [link](https://youtu.be/I09QeVDoEZY)
   6. This video talks about Maxwell's Equations on a Yee Grid. [link](https://youtu.be/hv5lIx4u8mY)
-  7. A quick video on the Collisionless Boltzmann equation. [link](https://youtu.be/u9OgtXxsBNU)
+  7. A quick video on the Collision-less Boltzmann equation. [link](https://youtu.be/u9OgtXxsBNU)
   8. A similar project from Princeton using the Boris method. [link](https://www.astro.princeton.edu/~anatoly/PICHW2016.html) 
   

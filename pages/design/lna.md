@@ -31,12 +31,12 @@ As a member of a design team, one of the designed circuits I submitted was the L
 
 Above is a picture of the first circuit simulation. Here we are creating a matching network taking into account only the transistor. Throughout the design process our ADS model will become more accurate, and close in on a design solution to the optimization parameters.
 
-Our circuit is to be made to match these paramters:
+Our circuit is to be made to match these parameters:
 
 * $S_{22} < -25$dB
 * $NF(2) < 1.99$
 
-Using these contraints we will optimize the micro-strip line dimensions to change within a $\pm5\%$ range. These goals represent the insertion loss($S_{22}$) and the simulated noise at 2.4 GHz. The noise figure value is determine from the simulated noise circle from the smith plot below.
+Using these constraints we will optimize the micro-strip line dimensions to change within a $\pm5\%$ range. These goals represent the insertion loss($S_{22}$) and the simulated noise at 2.4 GHz. The noise figure value is determine from the simulated noise circle from the smith plot below.
 
 ![Noise and Gain Circles Plot](/assets/my_images/lna/circle_plot.png){: .align-center width="50%"}
 
@@ -44,7 +44,7 @@ Advancing the circuit model, we used stub matching. This is done by determining 
 
 ### Design Specifics
 
-Using two capacitors at 1nF and 10nF for the bias lines, the DC source will not be able to add any AC noise to our circuit. The transistor for the LNA, was an AT-41511 BJT and the subtrate for our circuit is FR4. As proper design practice approximately 5 vias to the ground plate were used to minimize the introduced inductance by the connnection. The bias line width is set to 10 mils because it was the smallest line width possible for our fabrication.
+Using two capacitors at 1nF and 10nF for the bias lines, the DC source will not be able to add any AC noise to our circuit. The transistor for the LNA, was an AT-41511 BJT and the substrate for our circuit is FR4. As proper design practice approximately 5 vias to the ground plate were used to minimize the introduced inductance by the connection. The bias line width is set to 10 mils because it was the smallest line width possible for our fabrication.
 
 ### LNA Results
 
